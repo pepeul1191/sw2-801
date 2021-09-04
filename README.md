@@ -1,8 +1,6 @@
 # Tutorial de Github
 
-asdfadsf
-
-
+Aprendiendo git
 
 - [Pasos](#pasos)
     
